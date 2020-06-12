@@ -5,8 +5,8 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: projects
-  label: Projects
+  path: SA Moonlight
+  label: SA Moonlight
   create: all
   match: "**/*"
 - type: document
